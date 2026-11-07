@@ -1,7 +1,9 @@
-# Tauri + Vue + TypeScript
+# weather-forecast-light
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Super light weather forecast app.
 
-## Recommended IDE Setup
+## Development
 
-- [VS Code](https://code.visualstudio.com/) + [Vue - Official](https://marketplace.visualstudio.com/items?itemName=Vue.volar) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+This project uses Tauri, Vue 3, TypeScript, and Vite. Vue components use the `<script setup>` syntax.
+
+Recommended VS Code extensions: [Vue - Official](https://marketplace.visualstudio.com/items?itemName=Vue.volar), [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode), and rust-analyzer.
